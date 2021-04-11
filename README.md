@@ -4,8 +4,9 @@
 открыть через консоль папку в которую вы перенесли Game и прописать следущие команды:
 cd Game
 cd src
-javac Main.java
-java Main
+cd game
+javac Game.java
+java Game
 
 
 УРА!!!
